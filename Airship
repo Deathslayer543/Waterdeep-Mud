@@ -1,0 +1,42 @@
+Courier (Where you start cargo jobs)
+teleport 2
+2d,s,3e,2s
+
+Then if sent off to another location... return to courier and do job info
+
+"VECTOR" ---- "VECTOR CITY"
+2w,2n,w,n,2u,20n,16w,8n,2d,2e,s,3e
+
+"WESTBRIDGE"
+2w,2n,w,n,2u,10s,13w,2d,6s,w,d,3s,4e
+
+"ZOZO"
+2w,2n,w,n,2u,20e,3s,d,7e
+
+"TORREGIANO"
+Well... your already there...
+
+"DWARVEN KINGDOM"
+2w,2n,w,n,2u,6s,5w,d,n,7e
+
+"HEIFONG CITY" ---- "HEIFONG"
+2w,2n,w,n,2u,10s,36w,d,11w,6s,2e
+
+"MAHN'TOR"
+2w,2n,w,n,2u,20n,16w,17n,3w,8n,3w,9n,d,6s
+  airopen south
+  6s,4e
+
+"MAKOU CITY"
+2w,2n,w,n,2u,2s,11w,12d,w,s,e
+  airopen east
+  e
+
+"NEW THALOS"
+2w,2n,w,n,2u,10s,20e,d,s,5e
+
+"POLARIS"
+2w,2n,w,n,2u,2s,7w,2d,e,s,2e
+
+"TITAN" ---- "TITAN CITY"
+2w,2n,w,n,2u,8s,34w,2e,2s,w,2d,2n,d,s,3e
