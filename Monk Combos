@@ -1,0 +1,137 @@
+Charge: None
+Combos: Bash --
+kick
+#WAIT 1500
+punch 
+#WAIT 1500
+roundhouse
+-------------------------
+Charge: Cold / Frost
+Combos:  Slash --
+kick
+#WAIT 1500
+punch
+#WAIT 1500
+uppercut
+-------------------------
+Charge: Acid
+Combos: Acid --
+punch
+#WAIT 1500
+uppercut
+-------------------------
+Charge: Disease
+Combos: Plague --
+kick
+#WAIT 1500
+uppercut
+----------------------
+Charge: Energy
+Combos: Energy --
+kick
+#WAIT 1500
+kick
+#WAIT 1500
+kick
+-----------------------
+Charge: Fire / Flame
+Combos: Disarm, Flame --
+Disarm:
+======
+kick
+#WAIT 1500
+punch
+#WAIT 1500
+uppercut
+-----------------
+Flame:
+========
+kick
+#WAIT 1500
+punch
+#WAIT 1500
+punch
+-----------------
+Charge: Holy
+Combos: Curse, Holy --
+Curse:
+======
+kick
+#WAIT 1500
+punch
+#WAIT 1500
+uppercut
+------------
+Holy:
+======
+punch
+#WAIT 1500
+punch
+#WAIT 1500
+kick
+-------------
+Charge: Negative
+Combos: Dispel / Curse --
+Dispel:
+======
+punch
+#WAIT 1500
+kick
+#WAIT 1500
+roundhouse
+-------------
+Curse:
+======
+kick
+#WAIT 1500
+punch
+#WAIT 1500
+uppercut
+-------------
+Charge: Pierce
+Combos: Gouge, Pierce --
+Gouge:
+=====
+punch
+#WAIT 1500
+punch
+-----------
+Pierce:
+======
+punch
+#WAIT 1500
+kick
+#WAIT 1500
+uppercut
+------------
+Charge: Poison
+Combos: Poison --
+Punch
+#WAIT 1500
+roundhouse
+-------------
+Charge: Light
+Combos: Light --
+punch
+#WAIT 1500
+kick
+#WAIT 1500
+punch
+---------------
+Charge: Lightning
+Combos: Lightning --
+kick
+#WAIT 1500
+punch
+#WAIT 1500
+punch
+----------------
+Charge: Mental
+Combos: Scare --
+punch
+#WAIT 1500
+kick
+#WAIT 1500
+roundhouse
+------------------
+Remember: #WAIT 1500 is the delay in between each attack. It helps create combos. I use cmud, so not sure what other clients waitstates are..
